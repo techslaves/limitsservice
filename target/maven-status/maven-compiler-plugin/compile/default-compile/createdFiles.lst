@@ -1,0 +1,4 @@
+com\happylearning\microservice\limitsservice\controller\LimitConfigurationController.class
+com\happylearning\microservice\limitsservice\LimitsServiceApplication.class
+com\happylearning\microservice\limitsservice\configuration\Configuration.class
+com\happylearning\microservice\limitsservice\configuration\LimitConfiguration.class
